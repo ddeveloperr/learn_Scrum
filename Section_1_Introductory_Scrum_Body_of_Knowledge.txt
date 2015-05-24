@@ -1,3 +1,5 @@
 
 ** Intro 
 
+What are the key benefits of using Scrum in any project.
+Scrum processes are designed to embrace change and are customer-centric.
