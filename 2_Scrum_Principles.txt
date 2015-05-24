@@ -1,0 +1,4 @@
+
+Scrum principles are the core guidelines for applying the Scrum Framework and should always be used
+in all Scrum projects.
+
